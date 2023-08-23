@@ -68,11 +68,14 @@ Our trained YOLO model achieves an impressive 0.7 mPA on the alpaca detection ta
 
 
 
+https://github.com/EmanAbdelWhab/Alpaca_detection_YOLOV8/assets/103004153/da6bb745-c628-4bb6-a44d-c7bc75d8acf3
 
 
 
-https://github.com/EmanAbdelWhab/Alpaca_detection_YOLOV8/assets/103004153/ac18070f-2b46-47ee-a68f-4aee7c6c7fd3
 
 
 
 
+## Contributing 🤝
+
+We embrace contributions to enhance this project! Please feel free to report issues or submit pull requests to make this project even better.
