@@ -1,0 +1,5 @@
+path: C:/Users/ea667/AI Working Area/yolo/Projects/Alpaca detection/data
+train: images/train
+val: images/train
+nc: 1
+names: ['alpaca']

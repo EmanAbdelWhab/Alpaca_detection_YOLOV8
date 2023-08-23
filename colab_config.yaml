@@ -1,0 +1,5 @@
+path: /content/gdrive/MyDrive/Alpaca/data
+train: images/train
+val: images/train
+nc: 1
+names: ['alpaca']
