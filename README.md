@@ -50,7 +50,7 @@ Our approach to achieving accurate alpaca detection involves the following key s
 2. **Detect Alpacas:**
    Run the detection script on an image:
    ```sh
-   python detect.py --image path/to/image.jpg
+   python prediction.py --image path/to/image.jpg
    ```
 
 ## Results 📊
